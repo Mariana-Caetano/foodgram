@@ -1,3 +1,3 @@
 # foodgram
-Project developed based on Instagram purpose.
+Workshop 'Digital House': Project developed based on Instagram purpose.
 HTML / CSS / JAVASCRIPT
