@@ -1,2 +1,3 @@
 # foodgram
-Created with CodeSandbox
+Project developed based on Instagram purpose.
+HTML / CSS / JAVASCRIPT
